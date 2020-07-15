@@ -2,8 +2,9 @@ body{
   /* background:rgba(0,120,0,0.3) */
   /* background-color:green;
   opacity:0.3; */
-  background-image: url(https://iconset.io/sets/feather.svg);
+  /* background-image: url(https://iconset.io/sets/feather.svg);
   background-repeat: no-repeat;
   background-position: top right;
-  background-attachment: scroll;
+  background-attachment: scroll; */
+  background:#ffffff url(https://iconset.io/sets/feather.svg) no-repeat scroll top right;
 }
